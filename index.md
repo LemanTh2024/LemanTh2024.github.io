@@ -1,4 +1,4 @@
-![program](cargese2023.jpg)
+![program](LemanTh.jpg)
 
 The past decade brought a revolution to machine learning: algorithms are now able to deal with tasks and amounts of data that seemed to be science fiction only a decade ago. The statistical physics community and the machine learning ones were connected and indeed many concepts and algorithms of machine learning have roots in physics. It is time to revive and strengthen this connection. After [a wonderful event in 2018](https://krzakala.github.io/cargese.io/), we gather once again in Cargese in 2023, from July 31st to August 12th, and bring together researchers from machine learning & statistical physics to take full advantage of the strong link between the two fields to make further scientific progress.  The program will concentrate on theoretical aspect of machine learning and high-dimensional statistics, and their deep link with physics, as well as the direct applications of machine learning techniques in physics, for instance for sampling and generative problems.
 
