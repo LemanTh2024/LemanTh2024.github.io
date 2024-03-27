@@ -13,7 +13,7 @@ __Organisers:__  Florent Krzakala (EPFL, IdePhics Lab.) and Bruno Loureiro (ENS,
 
 Sebastian 	Goldt	(SISSA Trieste) <br>
 Yue	Lu	(Harvard) <br>
-Loucas Pillaud-Vivien	(Ecole des Mines, Paris) <br>
+Loucas Pillaud-Vivien	(Paris) <br>
 Denny Wu (NYU) <br>
 Lenka Zdeborova (EPFL) <br>
 
