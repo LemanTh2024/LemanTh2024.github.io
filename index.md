@@ -15,7 +15,7 @@ Sebastian 	Goldt	(SISSA Trieste) <br>
 Yue	Lu	(Harvard) <br>
 Loucas Pillaud-Vivien	(Ecole des Mines, Paris) <br>
 Denny Wu (NYU) <br>
-Lenka Zdeborova (EPFL <br>
+Lenka Zdeborova (EPFL) <br>
 
 </div>
 
