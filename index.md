@@ -11,12 +11,11 @@ __Organisers:__  Florent Krzakala (EPFL, IdePhics Lab.) and Bruno Loureiro (ENS,
 
 <div style="column-count: 3;">
 
-Cedric 	Gerbelot	(NYU)<br>
 Sebastian 	Goldt	(SISSA Trieste) <br>
-Julia 	Kempe	(NYU)<br>
 Yue	Lu	(Harvard) <br>
-Antoine 	Maillard	(ETH Zurich)<br>
-Theodor	Misiakiewicz	(Stanford) <br>
+Loucas Pillaud-Vivien	(Ecole des Mines, Paris) <br>
+Denny Wu (NYU) <br>
+Lenka Zdeborova (EPFL <br>
 
 </div>
 
