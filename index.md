@@ -14,6 +14,7 @@ __Organisers:__  Florent Krzakala (EPFL, IdePhics Lab.) and Bruno Loureiro (ENS,
 Nicolas Flammarion (EPFL) <br>
 Sebastian 	Goldt	(SISSA Trieste) <br>
 Yue	Lu	(Harvard) <br>
+Courtney Paquette (McGill) <br>
 Loucas Pillaud-Vivien	(Paris) <br>
 Denny Wu (NYU) <br>
 Lenka Zdeborova (EPFL) <br>
