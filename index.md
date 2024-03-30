@@ -18,6 +18,7 @@ Courtney Paquette (McGill) <br>
 Loucas Pillaud-Vivien	(Paris) <br>
 Denny Wu (NYU) <br>
 Lenka Zdeborova (EPFL) <br>
+Cengiz	Pehlevan(Harvard) <br>
 
 </div>
 
