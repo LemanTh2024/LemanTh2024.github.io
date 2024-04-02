@@ -30,6 +30,10 @@ Lenka Zdeborova (EPFL) <br>
 
 </div>
 
-# Registration
-
 # Practical informations
+
+# Many thanks to
+
+[Fonds National Suisse](https://www.snf.ch/fr)
+
+[EPFL AI center](https://ai.epfl.ch/)
