@@ -7,6 +7,8 @@ __Organisers:__  Florent Krzakala (EPFL, IdePhics Lab.) and Bruno Loureiro (ENS,
 # Schedule
 
 
+<img src="Screenshot 2024-04-04 at 12.00.29.png" alt="drawing" width="500"/>
+
 # Invited speakers
 
 <div style="column-count: 3;">
