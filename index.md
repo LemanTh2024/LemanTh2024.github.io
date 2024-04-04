@@ -6,7 +6,7 @@ __Organisers:__  Vittorio Erba (EPFL. Spoc lab.), Florent Krzakala (EPFL, IdePhi
 
 # Schedule
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FZurich&bgcolor=%23F09300&mode=WEEK&showNav=0&showDate=0&showTitle=0&showPrint=0&showCalendars=0&showTz=0&title=LEMAN-TH&src=Y2FyZ2VzZTIwMjNAZ21haWwuY29t&color=%23039BE5" style="border:solid 1px #777" width="1000" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FZurich&bgcolor=%23F09300&mode=WEEK&showNav=0&showDate=0&showTitle=0&showPrint=0&showCalendars=0&showTz=0&title=LEMAN-TH&src=Y2FyZ2VzZTIwMjNAZ21haWwuY29t&color=%23039BE5&dates=20240527%2F20240529" style="border:solid 1px #777" width="1000" height="600" frameborder="0" scrolling="no"></iframe>
 
 # Invited speakers
 
