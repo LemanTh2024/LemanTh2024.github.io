@@ -39,3 +39,7 @@ Lenka Zdeborova (EPFL) <br>
 [![EPFL AI center](epfl-ai-center-logo.png])](https://ai.epfl.ch/)
 
 ![Sonny and Mariel high fiving.](https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif)
+
+![EPFL AI center](epfl-ai-center-logo.png])
+
+![Fonds National Suisse](2022-10-12-134122.670745snsf.PNG]
