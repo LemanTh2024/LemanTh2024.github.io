@@ -13,8 +13,10 @@ __Organisers:__  Florent Krzakala (EPFL, IdePhics Lab.) and Bruno Loureiro (ENS,
 
 Gerard Ben Arous (NYU) <br>
 Alex Damian (Princeton) <br>
+Yatin Dandi (EPFL) <br>
 Nicolas Flammarion (EPFL) <br>
-Sebastian 	Goldt	(SISSA Trieste) <br>
+Cedric Gerbelot (NYU) <br>
+Sebastian Goldt	(SISSA Trieste) <br>
 Yue	Lu	(Harvard) <br>
 Courtney Paquette (McGill) <br>
 Cengiz	Pehlevan (Harvard) <br>
