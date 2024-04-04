@@ -2,7 +2,7 @@
 
 The past decade brought a revolution to machine learning: algorithms are now able to deal with tasks and amounts of data that seemed to be science fiction only a decade ago. The program will concentrate on theoretical aspect of machine learning and neural network, and their deep link with high-dimensional statistics, statistical physics, computer science.
 
-__Organisers:__  Florent Krzakala (EPFL, IdePhics Lab.) and Bruno Loureiro (ENS, Paris)
+__Organisers:__  Vittorio Erba (EPFL. Spoc lab.), Florent Krzakala (EPFL, IdePhics Lab.), and Bruno Loureiro (ENS, Paris)
 
 # Schedule
 
@@ -16,6 +16,7 @@ __Organisers:__  Florent Krzakala (EPFL, IdePhics Lab.) and Bruno Loureiro (ENS,
 Gerard Ben Arous (NYU) <br>
 Alex Damian (Princeton) <br>
 Yatin Dandi (EPFL) <br>
+Lenaic Chizat (EPFL) <br>
 Nicolas Flammarion (EPFL) <br>
 Cedric Gerbelot (NYU) <br>
 Sebastian Goldt	(SISSA Trieste) <br>
