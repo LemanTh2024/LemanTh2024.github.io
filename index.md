@@ -37,3 +37,7 @@ Lenka Zdeborova (EPFL) <br>
 [![Fonds National Suisse](2022-10-12-134122.670745snsf.PNG)](https://www.snf.ch/fr)
 
 [![EPFL AI center](epfl-ai-center-logo.png)](https://ai.epfl.ch/)
+
+
+
+<img src="2022-10-12-134122.670745snsf.PNG" alt="drawing" width="200"/><img src="epfl-ai-center-logo.png" alt="drawing" width="200"/>
