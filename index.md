@@ -10,8 +10,6 @@ __Organisers:__  Vittorio Erba (EPFL. Spoc lab.), Florent Krzakala (EPFL, IdePhi
 
 # Invited speakers
 
-<div style="column-count: 3;">
-
 Gerard Ben Arous (NYU) <br>
 Hugo Cui (EPFL) <br>
 Alex Damian (Princeton) <br>
@@ -30,15 +28,9 @@ Federico Ricci-Tersenghi (Roma La Sapienza) <br>
 Denny Wu (NYU) <br>
 Lenka Zdeborova (EPFL) <br>
 
-</div>
-
 # List of Participants
 
-<div style="column-count: 3;">
-
 TBA
-
-</div>
 
 # Practical informations
 
