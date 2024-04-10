@@ -13,8 +13,10 @@ __Organisers:__  Vittorio Erba (EPFL. Spoc lab.), Florent Krzakala (EPFL, IdePhi
 <div style="column-count: 3;">
 
 Gerard Ben Arous (NYU) <br>
+Hugo Cui (EPFL) <br>
 Alex Damian (Princeton) <br>
 Yatin Dandi (EPFL) <br>
+Ivan Dokmanic <Basel> <br>
 Lenaic Chizat (EPFL) <br>
 Nicolas Flammarion (EPFL) <br>
 Cedric Gerbelot (NYU) <br>
@@ -23,6 +25,7 @@ Yue	Lu	(Harvard) <br>
 Courtney Paquette (McGill) <br>
 Cengiz	Pehlevan (Harvard) <br>
 Loucas Pillaud-Vivien	(Paris) <br>
+Federico Ricci-Tersenghi (Roma La Sapienza) <br>
 Denny Wu (NYU) <br>
 Lenka Zdeborova (EPFL) <br>
 
