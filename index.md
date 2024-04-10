@@ -16,6 +16,7 @@ Gerard Ben Arous (NYU) <br>
 Hugo Cui (EPFL) <br>
 Alex Damian (Princeton) <br>
 Yatin Dandi (EPFL) <br>
+Elvis Dohmatob (Meta Paris) <br>
 Ivan Dokmanic <Basel> <br>
 Lenaic Chizat (EPFL) <br>
 Nicolas Flammarion (EPFL) <br>
