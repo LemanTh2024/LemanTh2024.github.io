@@ -36,6 +36,8 @@ Lenka Zdeborova (EPFL) <br>
 
 <div style="column-count: 3;">
 
+TBA
+
 </div>
 
 # Practical informations
