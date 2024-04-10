@@ -10,6 +10,8 @@ __Organisers:__  Vittorio Erba (EPFL. Spoc lab.), Florent Krzakala (EPFL, IdePhi
 
 # Invited speakers
 
+<table border="0">
+ <tr>
 Gerard Ben Arous (NYU) <br>
 Hugo Cui (EPFL) <br>
 Alex Damian (Princeton) <br>
@@ -18,6 +20,10 @@ Elvis Dohmatob (Meta Paris) <br>
 Ivan Dokmanic <Basel> <br>
 Lenaic Chizat (EPFL) <br>
 Nicolas Flammarion (EPFL) <br>
+   
+ </tr>
+ <tr>
+
 Cedric Gerbelot (NYU) <br>
 Sebastian Goldt	(SISSA Trieste) <br>
 Yue	Lu	(Harvard) <br>
@@ -27,6 +33,13 @@ Loucas Pillaud-Vivien	(Paris) <br>
 Federico Ricci-Tersenghi (Roma La Sapienza) <br>
 Denny Wu (NYU) <br>
 Lenka Zdeborova (EPFL) <br>
+    
+ </tr>
+</table>
+
+
+
+
 
 # List of Participants
 
