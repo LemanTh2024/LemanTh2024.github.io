@@ -33,6 +33,7 @@ Courtney Paquette (McGill) <br>
 Cengiz	Pehlevan (Harvard) <br>
 Loucas Pillaud-Vivien	(Ecole des Ponts ParisTech) <br>
 Federico Ricci-Tersenghi (Roma La Sapienza) <br>
+Zohar Ringel (Hebrew University) <br>
 Denny Wu (NYU) <br>
 Lenka Zdeborova (EPFL) <br>
 <br>
