@@ -29,6 +29,7 @@ Nicolas Flammarion (EPFL) <br>
 Cedric Gerbelot (NYU) <br>
 Sebastian Goldt	(SISSA Trieste) <br>
 Yue	Lu	(Harvard) <br>
+Antoine Maillard <br>
 Courtney Paquette (McGill) <br>
 Cengiz	Pehlevan (Harvard) <br>
 Loucas Pillaud-Vivien	(Ecole des Ponts ParisTech) <br>
@@ -41,8 +42,6 @@ Lenka Zdeborova (EPFL) <br>
 # List of Participants
 
 TBA
-
-# Practical informations
 
 # Many thanks to
 
