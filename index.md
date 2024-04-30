@@ -22,6 +22,7 @@ Raphael Berthier (Inria Sorbonne Université) <br>
 Hugo Cui (EPFL) <br>
 Alex Damian (Princeton) <br>
 Yatin Dandi (EPFL) <br>
+Edgar Dobriban (UPenn) <br> 
 Elvis Dohmatob (FAIR Paris) <br>
 Ivan Dokmanic (Basel) <br>
 Lenaic Chizat (EPFL) <br>
