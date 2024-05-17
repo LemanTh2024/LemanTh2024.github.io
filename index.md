@@ -1,4 +1,4 @@
-![program](lemanth2024.jpg)
+![program](lemanth2024v2.jpg)
 
 The past decade brought a revolution to machine learning: algorithms are now able to deal with tasks and amounts of data that seemed to be science fiction only a decade ago. The program will concentrate on theoretical aspect of machine learning and neural network, and their deep link with high-dimensional statistics, statistical physics, computer science. It will highlight discussions at the intersection of probablity theory, statistical physics, optimization and theoretical computer science.
 
@@ -22,7 +22,7 @@ Raphael Berthier (Inria Sorbonne Université) <br>
 Hugo Cui (EPFL) <br>
 Alex Damian (Princeton) <br>
 Yatin Dandi (EPFL) <br>
-Edgar Dobriban (UPenn) <br> 
+Edgar Dobriban (UPenn) <br>
 Elvis Dohmatob (FAIR Paris) <br>
 Ivan Dokmanic (Basel) <br>
 Lenaic Chizat (EPFL) <br>
@@ -37,7 +37,6 @@ Loucas Pillaud-Vivien	(Ecole des Ponts ParisTech) <br>
 Federico Ricci-Tersenghi (Roma La Sapienza) <br>
 Zohar Ringel (Hebrew University) <br>
 Denny Wu (NYU) <br>
-Lenka Zdeborova (EPFL) <br>
 <br>
 
 # List of Participants
