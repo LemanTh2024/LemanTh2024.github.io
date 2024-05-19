@@ -31,12 +31,12 @@ Cedric Gerbelot (NYU) <br>
 Sebastian Goldt	(SISSA Trieste) <br>
 Yue	Lu	(Harvard) <br>
 Antoine Maillard  (ETHZ) <br>
-Courtney Paquette (McGill) <br>
 Cengiz	Pehlevan (Harvard) <br>
 Loucas Pillaud-Vivien	(Ecole des Ponts ParisTech) <br>
 Federico Ricci-Tersenghi (Roma La Sapienza) <br>
 Zohar Ringel (Hebrew University) <br>
 Denny Wu (NYU) <br>
+Lenka Zdeborová (EPFL) <br>
 <br>
 
 # List of Participants
